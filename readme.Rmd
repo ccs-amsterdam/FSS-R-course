@@ -1,0 +1,6 @@
+---
+title: "Data Analysis with R - VU-FSS Course"
+output: github_document
+---
+
+Repository for the recurring workshop series. More information will follow soon. 
