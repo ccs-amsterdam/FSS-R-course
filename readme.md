@@ -18,7 +18,10 @@ one.
 The course is organized collaboratively by various colleagues from the
 faculty of social sciences. Everybody is welcome to join at any time.
 Below, you’ll find an overview of the planned sessions in the summer
-semester 2022. *Dates, time, and place will be announced shortly.*
+semester 2022.
+
+The course sessions take place Thursdays between **15.30** and
+**17.00**. *The room will be announced shortly.*
 
 ## Overview
 
@@ -30,12 +33,12 @@ Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorial
 But don’t worry if something doesn’t work. The basics of using R will
 again be covered in the first session.
 
-| Session | Date   | Topic                                                                  | Material                                                                                                                                                                                                                                    | Teacher              |
-|---------|--------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| 1       | t.b.a. | Introduction to R and RStudio                                          | [R Basics](https://github.com/masurp/VU_CADC/blob/main/tutorials/R_basics_introduction.md)                                                                                                                                                  | Kasper Welbers       |
-| 2       | t.b.a. | Data Wrangling and Transforming                                        | [Transforming data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md); [Summarizing data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md) | Philipp Masur        |
-| 3       | t.b.a. | Data Visualization                                                     | [Basics of data visualization with ggplot2](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)                                                                                           | Wouter van Atteveldt |
-| 4       | t.b.a. | Basic statistics: t-tests, analysis of variance, and regression models | [Statistical modeling in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/simple_modeling.md)                                                                                                                    | t.b.a.               |
+| Session | Date       | Topic                                                                  | Material                                                                                                                                                                                                                                    | Teacher              |
+|---------|------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| 1       | 21-04-2022 | Introduction to R and RStudio                                          | [R Basics](https://github.com/masurp/VU_CADC/blob/main/tutorials/R_basics_introduction.md)                                                                                                                                                  | Kasper Welbers       |
+| 2       | 19-05-2022 | Data Wrangling and Transforming                                        | [Transforming data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md); [Summarizing data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md) | Philipp Masur        |
+| 3       | 02-06-2022 | Data Visualization                                                     | [Basics of data visualization with ggplot2](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)                                                                                           | Wouter van Atteveldt |
+| 4       | 16-02-2022 | Basic statistics: t-tests, analysis of variance, and regression models | [Statistical modeling in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/simple_modeling.md)                                                                                                                    | t.b.a.               |
 
 ## Further resources
 
