@@ -1,6 +1,12 @@
 Data Analysis with R - VU-FSS Course
 ================
 
+<div style="padding: 0.2em;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width = 125 align="right" />
+
+</div>
+
 Welcome to the course “Data Analysis with R” that will be held twice a
 year at the Faculty of Social Sciences at the Vrije Universiteit
 Amsterdam. In order to facilitate the switch to R in our faculty, we
@@ -39,7 +45,7 @@ that one can do with R. For this purpose, we created various tutorials
 that can help you learn more advanced methods (e.g., multilevel
 modeling, structural equation modeling, machine learning, text analysis,
 etc.). You can find the handouts (similar to the ones we use in this
-course) and corresponding video tutorials on this repistory:
+course) and corresponding video tutorials on this repository:
 <https://github.com/ccs-amsterdam/r-course-material>
 
 ## Literature
