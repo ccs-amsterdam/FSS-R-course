@@ -20,7 +20,11 @@ faculty of social sciences. Everybody is welcome to join at any time.
 Below, you’ll find an overview of the planned sessions in the **summer
 semester 2022**.
 
-## Overview
+## Preparation
+
+In each session, you will perform analyses on your own computer. So
+please bring your own laptop and make sure that you have Internet
+access.
 
 Before the first session, we ask you to make sure that R and RStudio is
 installed on your computer and that you have played around with R at
@@ -30,7 +34,9 @@ Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorial
 But don’t worry if something doesn’t work. The basics of using R will
 again be covered in the first session.
 
-| \#  | Date       | Room & Time            | Topic                                                                  | Material                                                                                                                                                                                                                                    | Teacher              |
+## Overview
+
+| \#  | Date       | Room & Time            | Topic                                                                  | Material                                                                                                                                                                                                                                    | Teacher              |
 |-----|------------|------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
 | 1   | 21-04-2022 | HG-11A24 (15.30-17.00) | Introduction to R and RStudio                                          | [R Basics](https://github.com/masurp/VU_CADC/blob/main/tutorials/R_basics_introduction.md)                                                                                                                                                  | Kasper Welbers       |
 | 2   | 19-05-2022 | HG-11A24 (15.30-17.00) | Data Wrangling and Transforming                                        | [Transforming data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md); [Summarizing data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md) | Philipp Masur        |
