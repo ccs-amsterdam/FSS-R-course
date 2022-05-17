@@ -24,7 +24,7 @@ Before the first session, we ask you to make sure that R and RStudio is installe
 | # | Date | Room & Time | Topic | Material | Teacher |
 |---- | --------- | --------- |-------- | ------- | ------ |
 | 1 | 21-04-2022| HG-11A24 (15.30-17.00) | Introduction to R and RStudio |  [R Basics](https://github.com/masurp/VU_CADC/blob/main/tutorials/R_basics_introduction.md)| Kasper Welbers |
-| 2 | 19-05-2022 |HG-11A24 (15.30-17.00) | Data Wrangling and Transforming | [Transforming data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md); [Summarizing data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md) | Philipp Masur |
+| 2 | 19-05-2022 |HG-11A24 (15.30-17.00) | Data Wrangling and Transforming | [Transforming & summarizing data](https://github.com/masurp/VU_CADC/blob/main/tutorials/R_tidy_transforming-and-summarizing.md) | Philipp Masur |
 | 3 | 02-06-2022 | HG-11A24 (15.30-17.00) |Data Visualization | [Basics of data visualization with ggplot2](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md) | Wouter van Atteveldt |
 | 4 | 16-06-2022 | HG-10A20 (15.30-17.00) |Basic statistics: t-tests, analysis of variance, and regression models | [Statistical modeling in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/simple_modeling.md) | t.b.a. |
 
